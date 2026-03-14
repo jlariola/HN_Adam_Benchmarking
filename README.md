@@ -1,0 +1,1 @@
+Benchmarking the HN_Adam Algorithm Across Deep Generative Model Architectures for Image Synthesis
